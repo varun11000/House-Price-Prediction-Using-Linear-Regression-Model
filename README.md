@@ -1,6 +1,6 @@
 # House Price Prediction
 # Overview
-The House Price Prediction project aims to predict house prices based on various features using a linear regression model. The project involves data preprocessing, exploratory data analysis (EDA), and model building to provide accurate price predictions.
+The House Price Prediction project aims to forecast property values by analyzing a diverse set of features using a linear regression model. This comprehensive endeavor encompasses meticulous data preprocessing, exploratory data analysis (EDA), and model building to ensure the highest accuracy in price predictions. Our well-refined approach strives to deliver insightful and precise valuations, making a significant impact in the housing market.
 # Features
 - **Data Cleaning:** Cleans and preprocesses raw housing data to ensure accuracy and consistency.
 - **Exploratory Data Analysis (EDA):** Analyzes data to understand patterns, correlations, and distributions.
